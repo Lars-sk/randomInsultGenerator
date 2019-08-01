@@ -1,0 +1,26 @@
+body {
+    background-color: #2b2b2b;
+}
+
+.card-body p {
+    color: #fff;
+}
+
+h2 {
+    font-size: 3.6rem;
+    line-height: 1.25;
+    border: 2px solid #585858;
+    padding: 1.1rem 3.5rem;
+    min-width: 1rem;
+    min-height: 1rem;
+    border-radius: 10px;
+    background-color: #111;
+    color: #fff;
+    font-weight: 700;
+    word-break: break-word;
+}
+
+button {
+    border-radius: 10px;
+
+}
