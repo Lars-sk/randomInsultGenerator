@@ -1,2 +1,2 @@
 # randomInsultGenerator
-This is my test app
+Randomly combine text from three columns to create an insult, 
